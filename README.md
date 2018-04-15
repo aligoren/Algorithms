@@ -20,6 +20,8 @@ The algorithms I learned. Programming languages used: Python, JavaScript
 
 # Algorithm List
 
+[Bubble Sort](/bubble_sort)
+
 [Insertion Sort](/insertion_sort)
 
 [Merge Sort](/merge_sort)
