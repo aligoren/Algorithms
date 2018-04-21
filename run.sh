@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 if [ ! -f $1/javascript/$1.js ]; then
     echo "$1/javascript/$1.js not found"
 else

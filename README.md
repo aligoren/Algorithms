@@ -28,4 +28,6 @@ The algorithms I learned. Programming languages used: Python, JavaScript
 
 [Quick Sort](/quick_sort)
 
+[Counting Sort](/counting_sort)
+
 [Horner's Method](/horners_method)
