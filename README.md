@@ -26,4 +26,6 @@ The algorithms I learned. Programming languages used: Python, JavaScript
 
 [Merge Sort](/merge_sort)
 
+[Quick Sort](/quick_sort)
+
 [Horner's Method](/horners_method)
