@@ -16,3 +16,11 @@ else
     echo $'\n'"$1 for Python"
     python3 $1/python/$1.py
 fi
+
+if [ ! -f $1/cpp/$1.cpp ]; then
+    echo $'\n'"$1"'/cpp/'"$1"'.cpp not found'
+else
+    echo $'\n'"$1 for C++"
+    g++ $1/cpp/$1.cpp -o $1.out
+    ./$1.out
+fi
